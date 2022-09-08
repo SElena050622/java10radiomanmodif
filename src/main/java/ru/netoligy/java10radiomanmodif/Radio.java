@@ -1,5 +1,5 @@
 package ru.netoligy.java10radiomanmodif;
-
+//proba dla pullrequest
 public class Radio {
     protected int currentNumRadiostation;
     protected int currentVolume;

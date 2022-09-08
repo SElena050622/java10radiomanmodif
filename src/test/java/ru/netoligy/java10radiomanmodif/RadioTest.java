@@ -1,6 +1,7 @@
 package ru.netoligy.java10radiomanmodif;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
+//proba dla pullrequest
 
 public class RadioTest {
 
